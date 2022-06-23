@@ -29,7 +29,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
   <br>
    <a href="https://www.linkedin.com/in/deirilene-campos-silveira-400b42240/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
-##
- ![Snake animation](https://github.com/Deirilene)
+##![Snake animation](https://github.com/deirilene/deirilene/blob/output/github-contribution-grid-snake.svg)
  
 </div>
