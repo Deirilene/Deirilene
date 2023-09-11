@@ -21,11 +21,3 @@
   <img align="center" alt="mysql" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />         
 </div>
 
-<div> 
-  <br>
-    
-##
-
-![Snake animation](https://github.com/deirilene/deirilene/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
